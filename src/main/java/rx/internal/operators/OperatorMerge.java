@@ -524,7 +524,7 @@ public final class OperatorMerge<T> implements Operator<T, Observable<? extends 
          * The standard emission loop serializing events and requests.
          */
         void emitLoop() {
-            // Just a little comment
+            // Just another little comment
             boolean skipFinal = false;
             try {
                 final Subscriber<? super T> child = this.child;
