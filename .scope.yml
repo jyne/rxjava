@@ -1,6 +1,5 @@
-exclude:
-- .*/buildViaTravis.sh
 component_depth: 6
-database: opensource_rxjava_yml
 languages:
 - java
+exclude:
+- .*/buildViaTravis.sh
