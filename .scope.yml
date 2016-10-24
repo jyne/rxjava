@@ -2,4 +2,4 @@ component_depth: 6
 languages:
 - java
 exclude:
-- .*/buildViaTravis.sh
+- .*/perf/.*
