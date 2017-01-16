@@ -1,5 +1,5 @@
 exclude:
-- /src/perf/java/rx/.*
+- /src/perf/java/rx/.*.java
 component_depth: 6
 languages:
 - java
